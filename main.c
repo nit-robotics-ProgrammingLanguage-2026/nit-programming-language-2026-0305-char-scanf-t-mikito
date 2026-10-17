@@ -2,9 +2,9 @@
 
 int main(void) {
     /* 課題0305: ここに自分で必要なプログラムを書きなさい */
-    char i;
-    scanf("%c",&i);
-    printf("%c\n",&i);
+    char c;
+    scanf("%c",&c);
+    printf("%c\n",&c);
 
     return 0;
 }
